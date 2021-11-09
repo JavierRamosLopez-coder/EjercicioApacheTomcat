@@ -16,7 +16,7 @@ import javax.servlet.http.HttpServletResponse;
  * @author jramlope
  *
  */
-@WebServlet("/NttDataServlet")
+@WebServlet("/ServletJaviRamos")
 public class NttDataServlet extends HttpServlet {
 
 	/** Atributo estático Serializable **/
